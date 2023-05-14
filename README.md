@@ -39,6 +39,8 @@ Classification | Write Professional Emails in English |
 
 ### OnGoing COURSES/Certifications 🎤
 **AI (Artifical Intelligence from PFTP)**
-Algorithms for Searching, Sorting, and Indexing (Coursera Google)
+
+
+**Algorithms for Searching, Sorting, and Indexing (Coursera Google)**
 
 ---
