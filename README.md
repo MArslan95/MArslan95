@@ -25,12 +25,12 @@
 ### 📕 Research Paper
 INTELLIGENT PHISHING URL DETECTION: A SOLUTION BASED ON 
 DEEP LEARNING FRAMEWORK
+
 - 📡 (https://ieeexplore.ieee.org/abstract/document/9674162)
 
 A SMART PARKING SYSTEM BASED ON LORAWAN TECHNOLOGY 
+
 -📡 https://ieeexplore.ieee.org/document/9674149
-
-
 
 ### Certifications 📜
 Python For Every body |Pre-requisites For Deep Learning Bootcamp| Supervised Machine Learning: Regression and
