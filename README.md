@@ -8,7 +8,6 @@
 
 
 ### Things that I love:
-- 📕 Teaching
 - 🖥️ Python Developer
 - 🖥📕Machine Learning
 - 📕🖥️ Deep Learning
@@ -18,9 +17,9 @@
 - 🌎 Share Knowledge Regarding my Field
 
 ### Where I'm Going 🧭
-- Looking for oppertunity in Machine Learning
+- Looking for an opportunity in Machine Learning
 - Technical mastery of offensive skills for the betterment of the defensive community.
-- Craftspersonship, inclusivity, community building, mentorship, menteeship, good vibes 🎵
+- Craftspersonship, inclusivity, community building, mentorship, mentees, good vibes 🎵
 
 ### 📕 Research Paper
 INTELLIGENT PHISHING URL DETECTION: A SOLUTION BASED ON 
@@ -33,12 +32,12 @@ A SMART PARKING SYSTEM BASED ON LORAWAN TECHNOLOGY
 -📡 https://ieeexplore.ieee.org/document/9674149
 
 ### Certifications 📜
-Python For Every body |Pre-requisites For Deep Learning Bootcamp| Supervised Machine Learning: Regression and
+Python For Everybody |Pre-requisites For Deep Learning Bootcamp| Supervised Machine Learning: Regression and
 Classification | Write Professional Emails in English | 
 
 
 ### OnGoing COURSES/Certifications 🎤
-**AI (Artifical Intelligence from PFTP)**
+**AI (Artificial Intelligence from PFTP)**
 
 
 **Algorithms for Searching, Sorting, and Indexing (Coursera Google)**
